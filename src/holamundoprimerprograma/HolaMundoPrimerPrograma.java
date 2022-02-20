@@ -32,5 +32,13 @@ public class HolaMundoPrimerPrograma {
         
         miVariableCadena = "Adios";
         System.out.println(miVariableCadena);
+        
+        //var - Inferencia de tipos en Java
+        var miVariableEntera2 = 25;
+        System.out.println(miVariableEntera2);
+        //atajo soutv ->imprime con la variale
+        var miVariableCadena2 = "Nueva cadena";
+        System.out.println(miVariableCadena2);
+        
     }
 }

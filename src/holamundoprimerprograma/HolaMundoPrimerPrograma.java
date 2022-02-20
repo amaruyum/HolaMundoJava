@@ -25,5 +25,12 @@ public class HolaMundoPrimerPrograma {
         miVariableEntera = 15;
         //atajo sout + tab
         System.out.println(miVariableEntera);
+        
+        //atajo ctrl + space = todas las variables
+        String miVariableCadena = "Saludos";
+        System.out.println(miVariableCadena);
+        
+        miVariableCadena = "Adios";
+        System.out.println(miVariableCadena);
     }
 }

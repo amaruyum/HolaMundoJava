@@ -40,5 +40,12 @@ public class HolaMundoPrimerPrograma {
         var miVariableCadena2 = "Nueva cadena";
         System.out.println(miVariableCadena2);
         
+        //Valores permitidos en el nombre de variables
+        var miVariable = 1;
+        var _miVariable = 2;
+        var $miVariable = 3;
+        // var áVariable = 10; NO se recomienda utilizar
+        // var #miVariable =2; No se permite utilizar caracteres especiales
+        
     }
 }

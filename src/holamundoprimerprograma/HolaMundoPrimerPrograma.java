@@ -16,7 +16,9 @@ public class HolaMundoPrimerPrograma {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.print("Hola Mundo desde Java");
+        System.out.println("Hola Mundo desde Java");
+        //Variables
+        int miVariableEntera = 5;//Variable primitiva tipo entero
+        System.out.println(miVariableEntera);
     }
-    
 }
